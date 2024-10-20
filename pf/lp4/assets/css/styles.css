@@ -185,7 +185,11 @@ img {
 
 
 /*=============== HOME ===============*/
-
+.home__container {
+  position: relative;
+  padding-block: 7rem 1rem;
+  row-gap: 2.5rem;
+}
 
 /*=============== BUTTON ===============*/
 
